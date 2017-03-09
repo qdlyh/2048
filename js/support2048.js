@@ -1,7 +1,4 @@
-/**
- * Created by liuyubobobo on 14-4-11.
- * my site: http://www.liuyubobobo.com
- */
+
 
 documentWidth = window.screen.availWidth;
 gridContainerWidth = 0.92 * documentWidth;
